@@ -51,3 +51,13 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.bag1, .bag2, .bag3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
